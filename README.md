@@ -2,7 +2,7 @@
 <h3 align="center">Я начинающий QA Engineer</h3>
 <h3 align="left">Технологии и языки программирования:</h3>
 
-_все иконки кликабельны_
+_все иконки кликабельны и ведутс на примеры работ_
 
 <p align="left"> 
 <!--bash-->
@@ -16,6 +16,9 @@ _все иконки кликабельны_
 <!--Postman-->
 <a href="https://github.com/Megugo/Portfolio/tree/main/Postman" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <!--Python-->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
+<a href="https://github.com/Megugo/megugo/blob/main/Python.md" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<!--JS-->
+<a href="https://github.com/Megugo/Portfolio/tree/main/JS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
+
+<a href="https://github.com/Megugo/megugo/blob/main/Documentation.md">Примеры тестовой документации</a>
