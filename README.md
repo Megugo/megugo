@@ -19,6 +19,8 @@ _все иконки кликабельны и ведут на примеры р
 <a href="https://github.com/Megugo/megugo/blob/main/Python.md" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> 
 <!--JS-->
 <a href="https://github.com/Megugo/Portfolio/tree/main/JS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="40" height="40"/> </a> 
+<!--Java-->
+<a href="https://github.com/Megugo/megugo/blob/main/Java.md" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JS" width="40" height="40"/> </a> 
 </p>
 
 <a href="https://github.com/Megugo/megugo/blob/main/Documentation.md">Примеры тестовой документации</a>
